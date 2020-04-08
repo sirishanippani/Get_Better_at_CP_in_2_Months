@@ -7,7 +7,7 @@
 ## Week 1
 Dynamic Programming 
 
-- [] Read [DP Tutorial involving grids](https://www.hackerearth.com/practice/notes/dynamic-programming-problems-involving-grids/)
+- [ ] Read [DP Tutorial involving grids](https://www.hackerearth.com/practice/notes/dynamic-programming-problems-involving-grids/)
 - [ ] Read [TopCoder Tutorial on DP](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
 - Solve the following classical problems:
   - [ ] [Coin change problem](https://www.hackerrank.com/challenges/coin-change/problem)
